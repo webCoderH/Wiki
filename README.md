@@ -2,9 +2,9 @@
 
 ## Resources
 
-[前端相关文章精选](https://github.com/YoBitchFE/Wiki/blob/master/BackEnd/posts.md)
+[前端相关文章精选](https://github.com/YoBitchFE/Wiki/blob/master/FrontEnd/posts.md)
 
-[后端相关文章精选](https://github.com/YoBitchFE/Wiki/blob/master/FrontEnd/posts.md)
+[后端相关文章精选](https://github.com/YoBitchFE/Wiki/blob/master/BackEnd/posts.md)
 
 ## Stack
 
